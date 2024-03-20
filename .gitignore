@@ -1,0 +1,8 @@
+# Ignore package manager directories
+/node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore sensitive or environment-specific files
+.env
